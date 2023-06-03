@@ -9,4 +9,6 @@
 this is a test after the configuration
 <br>
 This is a test with `g` command, try it
+<br>
+----------------------------------------
 
